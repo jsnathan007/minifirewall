@@ -1,0 +1,2 @@
+# minifirewall
+blacklist for minifirewall
