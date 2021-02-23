@@ -1,1 +1,3 @@
+# blocklist of websites for firewall
+# Following websites will be blocked
 xxx18hot.com
